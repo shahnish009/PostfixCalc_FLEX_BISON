@@ -2,7 +2,7 @@
 
 # By using this code, you agree to appropriate licences
 
-# Code is primarily for illustration purposes only.
+# Code is primarily for illustration purposes only
 
 --For the Flex postfix evaluation calculator:
 
